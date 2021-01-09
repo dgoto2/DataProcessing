@@ -6,6 +6,7 @@ devtools::install_github("REDUS-IMR/RNMDAPI")
 
 ### Extract the data
 
+## load required packages
 library(Rstox)
 library(RNMDAPI)
 library(data.table)
